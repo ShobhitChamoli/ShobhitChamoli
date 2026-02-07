@@ -32,8 +32,8 @@
 # 📊 GitHub Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShobhitChamoli&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitChamoli&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShobhitChamoli&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShobhitChamoli&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShobhitChamoli&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShobhitChamoli&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
