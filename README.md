@@ -18,8 +18,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShobhitChamoli&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitChamoli&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShobhitChamoli&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShobhitChamoli&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -47,10 +47,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/[YOUR_LINK_HERE](https://www.linkedin.com/in/shobhit-chamoli-a27aa1350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+<a href="https://www.linkedin.com/in/shobhit-chamoli-a27aa1350">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:www.shobhit1234@gmail.com">
+<a href="mailto:shobhit1234@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
