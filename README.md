@@ -50,7 +50,7 @@
 <a href="https://www.linkedin.com/in/shobhit-chamoli-a27aa1350">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:shobhit1234@gmail.com">
+<a href="mailto:www.shobhit1234@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
