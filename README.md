@@ -20,6 +20,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShobhitChamoli.ShobhitChamoli&"  />
+ 
 </div>
 
 ###
@@ -31,7 +32,7 @@
 <h3 align="center">Hii ! Shobhit Chamoli This Side<br>Semicolon aficionado ;<br>Software Engineer  | Full Stack Enthusiast | AI Explorer 🚀</h3>
 
 ###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -93,6 +94,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
+<br>
 
 ###
 
@@ -106,6 +108,7 @@
 
 ###
 
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShobhitChamoli/ShobhitChamoli/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShobhitChamoli/ShobhitChamoli/output/pacman-contribution-graph.svg">
