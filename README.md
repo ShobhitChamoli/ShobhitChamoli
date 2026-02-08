@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -100,13 +104,20 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShobhitChamoli&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShobhitChamoli&theme=github_dark" height="150" />
 </div>
+ 
+ <br>
+ 
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShobhitChamoli&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false&color=008000&title_color=ffffff&line=008000&point=00000000&area_color=68ad74&custom_title=contributions" height="231" alt="activity-graph graph"  />
+ 
 
-###
+</div>
 
 <br>
 <picture>
