@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/shobhit_chamoli009?igsh=MXBrOHdod3g5ZzczcA%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="shobhitchamoli09@gmail.com" alt="message me on shobhitchamoli09@gmail.com">
+  <a href="shobhitchamoli09@gmail.com" alt="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
