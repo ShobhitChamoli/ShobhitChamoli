@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="center">Hii ! Shobhit Chamoli This Side<br>Semicolon aficionado ;<br>Software Engineer  | Full Stack Enthusiast | AI Explorer  🚀</h3>
+<h3 align="center">Hii ! Shobhit Chamoli This Side! <br>Semicolon aficionado ;<br>Software Engineer  | Full Stack Enthusiast | AI Explorer  🚀</h3>
 
 ###
 <br>
