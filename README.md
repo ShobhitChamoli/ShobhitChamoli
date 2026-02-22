@@ -107,6 +107,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShobhitChamoli&theme=github_dark" height="150" />
 </div>
  
+ <br></br>
  <br>
  
 <div align="center">  
@@ -115,7 +116,9 @@
 
 </div>
 
+<br></br>
 <br>
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShobhitChamoli/ShobhitChamoli/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShobhitChamoli/ShobhitChamoli/output/pacman-contribution-graph.svg">
